@@ -62,7 +62,7 @@
 
 "@adiwajshing/keyed-db": "^0.2.4",
 
-"puppeteer": "24.3.0",
+"puppeteer": "24.14.0",
     
 "@bochilteam/scraper": "^5.0.1",
 
